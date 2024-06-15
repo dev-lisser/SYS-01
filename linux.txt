@@ -1,0 +1,33 @@
+1- Système d'exploitation UNIX  
+UNIX est un système d'exploitation réseau multi-utilisateurs, multi-tâches et multiprocesseurs. Il a été 
+développé par Ken Thompson à partir de 1965 dans les laboratoires Bell AT&T aux États-Unis, mais la 
+vraie naissance d'UNIX est historiquement fixée au 1er janvier 1970. Avec l'aide de Dennis Ritchie, il a été 
+entièrement écrit en langage C, et fut, à partir de 1973, distribué gratuitement à toutes les universités à 
+des fins éducatives.  
+À partir de 1977, des chercheurs de l'université de Californie réécrivirent, à partir des sources d'UNIX 
+d'AT&T, leur propre version d'UNIX et la baptisèrent BSD (Berkeley Software Distribution).  
+Les entreprises disposèrent également des sources d'UNIX et développèrent leurs propres versions UNIX commerciales, parmi lesquelles :  
+- AIX : Version UNIX d'IBM basée sur System V  
+- Solaris : Version UNIX de Sun basée sur BSD et System V  
+- HP-UX : Version UNIX de Hewlett-Packard basée sur BSD  
+
+Unix possède un ou plusieurs interpréteurs de commandes (shell) ainsi qu'un grand nombre de 
+commandes et de nombreux utilitaires (assembleur, compilateurs pour de nombreux langages, 
+traitements de texte, messagerie électronique, ...). De plus, il possède une grande portabilité, ce qui 
+signifie qu'il est possible de mettre en œuvre un système Unix sur la quasi-totalité des plates-formes 
+matérielles. De nos jours, les systèmes Unix sont très présents dans les milieux professionnels 
+et universitaires grâce à leur grande stabilité, leur niveau de sécurité élevé et le respect des grands 
+standards, notamment en matière de réseau.
+
+2- Système d'exploitation Linux  
+En août 1991, Linus Torvalds, étudiant à l'université d'Helsinki, annonce son projet de développer un OS 
+de type UNIX permettant d'exploiter les capacités multitâches du processeur i386. Depuis la version 
+0.01 (août 1991), des milliers de développeurs, communiquant via Internet, ont contribué 
+au développement de ce projet qui est devenu Linux.
+  
+C'est Linus Torvalds qui est responsable du noyau Linux et c'est lui qui décide de la distribution des s
+ources. Concrètement, chaque composant du noyau (pilote, système de fichiers, gestion de mémoire...)
+ est sous la responsabilité d'une personne, qui centralise à son tour les développements de centaines de 
+programmeurs et les transmet à Linus, afin de les intégrer au noyau.  
+Linux est la propriété de Linus Torvalds, mais le code source, aussi bien que le code binaire, est librement
+ et gratuitement distribué selon les termes de la GPL (GNU General Public License).
